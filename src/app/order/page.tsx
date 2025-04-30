@@ -58,8 +58,6 @@ export default function OrderPage() {
                         <h1 className="text-xl font-bold text-center">Add to Order</h1>
                     </div>
                 </header>
-
-
                 <main className="flex-1 p-4">
                     <Card className="mb-6">
                         <CardHeader>
