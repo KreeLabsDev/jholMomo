@@ -1,0 +1,16 @@
+{
+  "name": "Khata",
+  "short_name": "Khata",
+  "description": "Account Keeper for Charali Jhol Momo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
