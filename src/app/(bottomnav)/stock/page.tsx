@@ -43,7 +43,6 @@ export default function StockTrackingPage() {
           />
           <h1 className="text-xl font-bold text-center">Inventory Stock</h1>
         </div>
-
         <div className="relative">
           <Search className="absolute left-3 top-2.5 h-4 w-4 text-muted-foreground" />
           <Input
